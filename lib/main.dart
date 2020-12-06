@@ -178,7 +178,7 @@ class _MyHomePageState extends State<MyHomePage> {
                           Expanded(
                             flex: 4,
                             child: Text(
-                              "陪陪养育",
+                              "Health challenge",
                               style: Theme.of(context).textTheme.display1,
                             ),
                           ),
